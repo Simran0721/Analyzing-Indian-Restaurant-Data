@@ -34,7 +34,7 @@ To identify key factors influencing the success of Indian restaurants in India, 
    - Format Pane: To customize the appearance of visualizations.
 
 ## Data Set Used:
-<a href"https://github.com/Simran0721/Analyzing-Indian-Restaurant-Data/blob/main/restaurants.csv">DataSet</a>
+<a href="https://github.com/Simran0721/Analyzing-Indian-Restaurant-Data/blob/main/restaurants.csv">DataSet</a>
 
 A dataset containing information about Indian restaurants, including restaurant name, location, cuisine, ratings, reviews, and more.
 
